@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/mdshemran24" target="blank"><img src="https://img.shields.io/twitter/follow/mdshemran24?logo=twitter&style=for-the-badge" alt="mdshemran24" /></a> </p>
 
-- 🔭 I’m currently working on [Freelancer](https://www.freelancer.com/u/shahadatwebdev)
+- ✅ I’m currently working on [Freelancer](https://www.freelancer.com/u/shahadatwebdev)
 
-- 🌱 I’m currently learning **JavaScript | PHP | MySQL**
+- 🍀 I’m currently learning **JavaScript | PHP | MySQL**
 
 - 🤝 I’m looking for help with [Web Design | Development | CMS](https://github.com/webdevshahadat)
 
