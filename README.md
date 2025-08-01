@@ -1,4 +1,4 @@
-<img src="https://www.linkedin.com/in/mdshemran/overlay/background-image/">
+<a><img src="https://www.linkedin.com/in/mdshemran/overlay/background-image" alt="Cover Photo"></a>
 <h1 align="center">Hi 👋, I'm Shahadat Hossain</h1>
 <h3 align="center">Certified Fullstack Developer | Web & WP Expert</h3>
 
