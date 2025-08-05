@@ -1,8 +1,7 @@
 <img src="https://media.licdn.com/dms/image/v2/D4D16AQG_kN3F-Y4jkA/profile-displaybackgroundimage-shrink_350_1400/B4DZhm0X.6HwAY-/0/1754071664168?e=1756944000&v=beta&t=S4rkFECJHGqWFa-fMJfSRV7tMryxBE2KRWRE-cK19Sw">
 <h1 align="center">Hi 👋, I'm Shahadat Hossain</h1>
 <h3 align="center">Certified Fullstack Developer | Web & WP Expert</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=webdevshahadat&label=Profile%20views&color=0e75b6&style=flat" alt="webdevshahadat" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=webdevshahadat&label=Profile%20views&color=0e75b6&style=flat" alt="webdevshahadat"/> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=webdevshahadat" alt="webdevshahadat" /></a> </p>
 
